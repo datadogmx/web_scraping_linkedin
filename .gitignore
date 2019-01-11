@@ -1,0 +1,4 @@
+linkedin_kernel
+*.pkl
+.ipynb_checkpoints
+*.log
